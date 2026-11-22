@@ -15,7 +15,7 @@ android {
         versionName = "2.0"
 
         // GANTI dengan alamat folder api di server Anda (wajib HTTPS, akhiri dengan /)
-        buildConfigField("String", "API_BASE", "\"https://domain-anda.sch.id/absensi/api/\"")
+        buildConfigField("String", "API_BASE", "\"https://mtsn3pekanbaru.sch.id/absensi/api/\"")
     }
 
     buildFeatures { buildConfig = true }
