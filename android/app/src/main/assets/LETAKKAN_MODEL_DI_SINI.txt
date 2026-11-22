@@ -1,0 +1,2 @@
+Letakkan file model wajah di folder ini dengan nama persis: mobile_face_net.tflite
+Syarat: MobileFaceNet float32, input 112x112 RGB, output vektor 128/192 dimensi. Lihat README.md bagian "Model wajah".

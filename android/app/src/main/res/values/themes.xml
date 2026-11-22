@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Absensi" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorOnPrimary">@color/bg</item>
+        <item name="colorPrimaryContainer">@color/line</item>
+        <item name="colorOnPrimaryContainer">@color/yellow</item>
+        <item name="colorSecondary">@color/yellow_dim</item>
+        <item name="colorSurface">@color/panel</item>
+        <item name="colorOnSurface">@color/text</item>
+        <item name="colorSurfaceVariant">@color/panel</item>
+        <item name="colorOnSurfaceVariant">@color/dim</item>
+        <item name="colorOutline">@color/yellow_dim</item>
+        <item name="colorError">@color/red</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:fontFamily">monospace</item>
+    </style>
+</resources>
